@@ -15,34 +15,24 @@ const Contact = () => {
               <h2>Let's work together...</h2>
             </div>
             <div className="flex justify-center items-center gap-5 flex-wrap md:gap-10">
-
-
-
-
-
-
             <a
                 href="https://github.com/05Chaipipat"
                 id="profile-link"
                 target="_blank"
                 className=""
               >
-              <button className="flex items-center rounded-lg px-2 py-1  bg-amber-400 md:w-[120px] justify-center w-1/3 hover:bg-red-500 hover:scale-[1.2] duration-150">
-                <img className="w-[30px]" src="githubIcon.png" alt="git" />
-             
+              <button className="flex items-center rounded-lg px-2 py-1  bg-amber-400 w-[120px] justify-center  hover:bg-red-500 hover:scale-[1.2] duration-150">
+                <img className="w-[30px]" src="githubIcon.png" alt="git" />        
                 Github
-             
               </button>
               </a>
-
-
               <a
                 href="http://www.linkedin.com/in/chaipipat-khemvaraporn"
                 id="profile-link"
                 target="_blank"
                 className=""
               >
-              <button className="flex items-center rounded-lg px-2 py-1  bg-amber-400 md:w-[120px] justify-center w-1/3 hover:bg-red-500 hover:scale-[1.2] duration-150">
+              <button className="flex items-center rounded-lg px-2 py-1  bg-amber-400 w-[120px] justify-center hover:bg-red-500 hover:scale-[1.2] duration-150">
                 <img className="w-[30px]" src="linkedinIcon.png" alt="in" />
           
                 Linkedin
@@ -59,7 +49,7 @@ const Contact = () => {
                 target="_blank"
                 className=""
               >
-              <button className="flex items-center rounded-lg px-2 py-1  bg-amber-400 md:w-[120px] justify-center w-1/3 h-[38px] hover:bg-red-500 hover:scale-[1.2] duration-150">
+              <button className="flex items-center rounded-lg px-2 py-1  bg-amber-400 w-[120px] justify-center  h-[38px] hover:bg-red-500 hover:scale-[1.2] duration-150">
                 <span className="material-symbols-outlined text-white">upload_file</span>
                 CV
               </button>

@@ -16,10 +16,7 @@ const Skill = (props) => {
         <SkillItem Path="node-js.svg" Link="#" Alt="NodeJS" />
         <SkillItem Path="tailwind.svg" Link="#" Alt="Tailwind CSS" />
         <SkillItem Path="sqlite.svg" Link="#" Alt="SQLite" />
-        {/* <SkillItem Path=".svg" Link="" Alt="" />
-        <SkillItem Path=".svg" Link="" Alt="" /> */}
-
-
+        <SkillItem Path="Bootstrap.png" Link="#" Alt="Bootstrap" />
       </div>
     </div>
   );

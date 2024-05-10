@@ -23,7 +23,7 @@ const Project = () => {
           </span>
           <div className="p-3 flex items-center justify-center gap-20">
             <a
-              href="https://05-nut-colmar-r0lo4me61-chaipipats-projects.vercel.app/"
+              href="https://05-nut-colmar.vercel.app/"
               target="_blank"
               className="text-white bg-amber-400 rounded-lg px-10 py-2 hover:bg-lime-400 hover:scale-[1.2] duration-150"
             >

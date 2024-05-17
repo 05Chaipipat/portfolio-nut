@@ -86,14 +86,14 @@ const Project = () => {
           </span>
           <div className="p-3 flex items-center justify-center gap-20">
             <a
-              href="#"
+              href="https://hifine-project-frontend.vercel.app/Home"
               target="_blank"
               className="text-white bg-amber-400 rounded-lg px-10 py-2 hover:bg-lime-400 hover:scale-[1.2] duration-150"
             >
               Link
             </a>
             <a
-              href="#"
+              href="https://github.com/HiFineProject/hifine-project-frontend"
               target="_blank"
               className="text-white bg-amber-400 rounded-lg px-10 py-2 hover:bg-lime-400 hover:scale-[1.2] duration-150"
             >
